@@ -1,0 +1,58 @@
+body {
+    background-color:  #060222;
+}
+.contener {
+    margin-top: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+}
+.logo img {
+    
+    height: 150px;
+    margin-left: 90px;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+    
+}
+.mb-3 p {
+    color:white;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+
+    
+}
+.contener .mb-3 input {
+    border-radius: 100px;
+    margin-top: -13px;
+}
+.contener a {
+    border-radius: 50px;
+    width: 150px;
+    background-color: rgb(58, 59, 58);
+    border: none;       
+}
+.contener a:hover {
+    color: black;
+    background-color: white;
+}
+.icon img {
+    height: 30px;
+    margin-left: 20px;
+}
+.footer p {
+    color: #fff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
